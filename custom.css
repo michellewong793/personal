@@ -34,14 +34,14 @@ ul.nav, .jumbotron h1 {
 }
 
 .homepage h2{
-  color:red;
+  color:Deeppink;
   font-family: 'Arvo', courier, serif;
   text-align: center;
   text-transform:uppercase;
 }
 
 .homepage h3{
-  color:red;
+  color:DeepPink;
   font-family:'Arvo',courier,serif;
   font-size:26px;
   text-transform:uppercase;
@@ -51,6 +51,6 @@ ul.nav, .jumbotron h1 {
 .homepage hr {
   border-top:1px solid;
   width: 160px;
-  border-color: red;
+  border-color: DeepPink;
   margin: 15px auto;
 }
