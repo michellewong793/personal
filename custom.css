@@ -34,7 +34,11 @@ ul.nav, .jumbotron h1 {
 }
 
 .homepage h2{
+<<<<<<< HEAD
   color:DeepPink;
+=======
+  color:Deeppink;
+>>>>>>> b1454edb21843c3c7de511ccc3d846c323229bcc
   font-family: 'Arvo', courier, serif;
   text-align: center;
   text-transform:uppercase;
@@ -51,6 +55,6 @@ ul.nav, .jumbotron h1 {
 .homepage hr {
   border-top:1px solid;
   width: 160px;
-  border-color: red;
+  border-color: DeepPink;
   margin: 15px auto;
 }
